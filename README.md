@@ -1,4 +1,3 @@
-<img width="732" alt="image" src="https://github.com/rrajanaditya/QR-Code-Generator/assets/62804518/dfaccb3b-0fa8-41de-bde6-410ceb2ab7fb">
 # React QR Code Generator
 A user-friendly React application that empowers you to effortlessly generate QR codes for any text or URL you provide.
 
