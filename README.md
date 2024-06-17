@@ -6,7 +6,7 @@ A user-friendly React application that empowers you to effortlessly generate QR 
 
 ## Prerequisites:
 
-Ensure you have Node.js and npm (or yarn) installed on your system. You can download them from the official Node.js website: https://nodejs.org/en.
+Ensure you have Node.js and npm (or yarn) installed on your system. You can download them from the official Node.js website: https://nodejs.org/en
 
 ## Clone the Repository:
 
@@ -47,6 +47,7 @@ I encourage contributions to this project! If you have any improvements, bug fix
 This project is licensed under the MIT License (refer to the LICENSE file for the full license text).
 
 # Hosted Website 
-<img width="732" alt="image" src="https://github.com/rrajanaditya/QR-Code-Generator/assets/62804518/1fd115c8-b82e-4482-8cc4-f72132d4f111">
 https://qrcodegen-rrajanaditya.netlify.app
+<img width="732" alt="image" src="https://github.com/rrajanaditya/QR-Code-Generator/assets/62804518/1fd115c8-b82e-4482-8cc4-f72132d4f111">
+
 
